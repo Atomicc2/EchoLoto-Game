@@ -20,7 +20,7 @@ EchoLoto/
 ## 🛠️ Installation
 ```bash
 # Clone this repository
-git clone https://github.com/SeuUsuario/EchoLoto.git
+git clone https://github.com/Atomicc2/EchoLoto.git
 
 # Navigate to the project folder
 cd EchoLoto
