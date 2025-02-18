@@ -49,8 +49,8 @@ python3 EchoLoto.py
 
 ## 🏆 Author  
 👤 **Anderson S.**  
-- [GitHub Profile](https://github.com/seuusuario)  
-- 📧 anderson@email.com  
+- [GitHub Profile](https://github.com/Atomicc2)  
+- 📧 andersonacpemp@email.com
 
 ---
 
